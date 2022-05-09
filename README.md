@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @remoterhub
-- 👀 I’m interested to improve my own frontend and backend projects 
-- 🌱 I’m currently learning html, javascript and css 
-- 💞️ I’m looking to collaborate on js, css, react js interesting projects.
+- 👋 Hi, I’m Victor Felipe Castañeda developer and designes from @remoterhub -Colombia
+- 👀 I’m interested to improve my own frontend and backend skills, building projects and contribute others
+- 🌱 I’m currently learning html, javascript, css and REACT JS 
 - 📫 How to reach me in twitter @remoterhub
 
 <!---
